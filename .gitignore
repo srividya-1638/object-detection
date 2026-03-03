@@ -1,0 +1,16 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# YOLO model files
+*.pt
+
+# YOLO output folders
+runs/
+
+# Virtual environment
+venv/
+.env/
+
+# VS Code settings
+.vscode/
